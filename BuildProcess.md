@@ -4,7 +4,7 @@
 <img width="463" height="239" alt="First, I created a directory for pihole" src="https://github.com/user-attachments/assets/07837ae4-9e48-46ee-b661-caf291861156" />
 
 ### Step 2: Create a note file in order to insert code
-<img width="463" height="239" alt="I Then created a notes app in order to hold the code that I&#39;ve gotten from GitHub!" src="https://github.com/user-attachments/assets/d8cc5e83-edfd-4ea5-bb29-eb2a30cc0803" />
+<img width="788" height="50" alt="I Then created a notes app in order to hold the code that I&#39;ve gotten from GitHub!" src="https://github.com/user-attachments/assets/d8cc5e83-edfd-4ea5-bb29-eb2a30cc0803" />
 
 ### Step 3: Insert code inside of note file
 <img width="919" height="251" alt="Then once doing so, I made some changes in order for it to fit my preferences!" src="https://github.com/user-attachments/assets/536c92c8-0497-4e1f-9311-20089256012e" />
