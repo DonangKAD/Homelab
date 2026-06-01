@@ -20,4 +20,4 @@ My personal homelab running on a laptop using Docker, Portainer, and Raspberry P
 - Raspberry Pi Connect
 
 ## Status
-🚧 Work in Progress
+🚧 Work in Progress!
