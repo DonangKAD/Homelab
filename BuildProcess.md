@@ -15,6 +15,8 @@
 ### Step 5: Type local host URl in web browser
 <img width="948" height="565" alt="Then typed my localhost url, and proceeded to access pi-hole!" src="https://github.com/user-attachments/assets/bce026a3-be4b-487e-b463-21a7a7b520e4" />
 
+<img width="950" height="564" alt="pi hole dashboard" src="https://github.com/user-attachments/assets/6af6b985-0336-4e37-8a84-2e0ab23850c3" />
+
 ### Step 6: Nslookup in order to make sure query is active
 <img width="386" height="482" alt="I then did an nslookup on these three websites to make sure it was working" src="https://github.com/user-attachments/assets/7e1a3e51-f095-413e-a2e6-50f07d7db0a6" />
 
